@@ -14,3 +14,13 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Generate Button
 - Color Boxes
 - Responsive Design
+
+3. JS
+
+- DOM Elements
+- EventListeners
+- Functions
+  - Generate Palette
+  - Show Copy Success
+  - Generate Random Color
+  - Update Palette Display
